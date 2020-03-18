@@ -29,4 +29,5 @@ The outputed file can be used to train a custom entity recognizer using the "Ann
 File, Line, Begin Offset, End Offset, Type
 documents.txt, 0, 0, 11, ENGINEER
 documents.txt, 1, 0, 5, ENGINEER
-documents.txt, 3, 25, 30, MANAGER```
+documents.txt, 3, 25, 30, MANAGER
+```
